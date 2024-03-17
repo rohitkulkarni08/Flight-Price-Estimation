@@ -6,7 +6,7 @@ This project focuses on predicting flight prices using various machine learning 
 
 ## Dataset
 
-The dataset used in this project contains information about flight details and prices. [Data Source](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh/code?datasetId=140442&sortBy=dateCreated)
+The [Dataset](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh/code?datasetId=140442&sortBy=dateCreated) used in this project contains information about flight details and prices. 
 
 Key features include:
 
